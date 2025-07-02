@@ -15,6 +15,7 @@ vulnerability scanning (it can also find vulns on any web application such as sq
 
 
 
+
 Installation:-
 
 git clone https://github.com/Xmyronn/nex.git
@@ -24,6 +25,9 @@ cd nex
 pip install -r requirements.txt
 
 python3 nex.py
+
+
+
 
 Usage
 
@@ -49,9 +53,14 @@ in this you just have to provide the ip address and it will scan all the vulns o
 
 
 
+
+
+
 project purpose:-
 
 this tool was built for my final year porject and the main goal of this tool is apply python and linux skills in ethical way and create a tool that can grow and improve over time
+
+
 
 
 
