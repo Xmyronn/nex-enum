@@ -30,7 +30,22 @@ Usage
 python3 nex.py
 
 =====please use the python3 nex.py to start the tool=====
+
 ![Screenshot 2025-06-19 000613](https://github.com/user-attachments/assets/102a8f7c-55ae-4b2c-915e-ff6c94e1b9a0)
+
+after the nex interface you can choose any option 
+
+option 1 is for port scan to use it just type 1 
+and then provide the ip address 
+and then add the port range 
+
+
+option 2 is for directory busting 
+in this provide the url and then select a wordlist it will appear right after you provide the url choose any wordlist and it will start busting
+
+
+option 3 is used to find vulns on web app
+in this you just have to provide the ip address and it will scan all the vulns on the web 
 
 
 
