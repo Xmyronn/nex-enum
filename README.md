@@ -27,7 +27,9 @@ python3 nex.py
 
 Usage
 
-python3 nex.py ![Screenshot 2025-06-19 000613](https://github.com/user-attachments/assets/102a8f7c-55ae-4b2c-915e-ff6c94e1b9a0)
+python3 nex.py
+=====please use the python3 nex.py to start the tool=====
+![Screenshot 2025-06-19 000613](https://github.com/user-attachments/assets/102a8f7c-55ae-4b2c-915e-ff6c94e1b9a0)
 
 
 
